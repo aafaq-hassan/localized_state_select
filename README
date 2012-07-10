@@ -1,0 +1,17 @@
+LocalizedStateSelect
+=============
+ localized_state_select gem allows you to easily create dropdown list of states for a country provided as an option.
+ Default counrty is US.
+
+ Usage:
+ localized_state_select(object, method, country='US', options = {}, html_options = {})
+  
+	Currently it supports only US, CANADA
+
+ If you want to add other country plese send me the list of states and I will add them, or you can fork and make a pull request.
+
+Author:
+   Aafaq Hassan 
+   aafaqhassan@gmail.com
+   Lahore, Pakistan
+   
