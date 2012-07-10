@@ -1,5 +1,3 @@
-require File.join(File.dirname(__FILE__), '..', 'init')
-
 module LocalizedStateSelect
   class << self
     # Returns array with codes and localized state names (according to <tt>I18n.locale</tt>)
